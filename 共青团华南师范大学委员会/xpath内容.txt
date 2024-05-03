@@ -1,0 +1,13 @@
+//div[@class='side-menu']//li[@class='cl']/a/text()
+
+//div[@class='side-menu']//li[@class='cl']/a/@href
+
+
+
+点开以后的下一层：
+
+//div[@class='category-list']/ul/li/a/text()
+
+//div[@class='category-list']/ul/li/a/@href
+
+

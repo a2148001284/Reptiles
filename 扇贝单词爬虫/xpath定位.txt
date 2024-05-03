@@ -1,0 +1,25 @@
+下一页
+//div[@class='index_pagination__2wGso']//ul//li[11]    
+
+所有单词
+//div[@class='index_wordName__1lkbV']
+
+中文翻译
+//div[@class='index_bottom__XLoPQ']
+
+词性：
+//div[@class='index_bottom__XLoPQ']//span[1]
+中文：
+//div[@class='index_bottom__XLoPQ']//span[2]
+
+
+
+点击后进入：
+//div[@class='index_left__2LkyW']//p[1]
+例句中文：
+//div[@class='index_left__2LkyW']//p[2]
+
+
+输入账号：
+//input[@class='h-11.5 w-full rounded-4xl border border-slate-200 text-lg text-slate-900 caret-green-800 appearance-none placeholder:text-slate-200 focus:border-green-800 dark:text-white dark:placeholder:text-white pl-12']
+
